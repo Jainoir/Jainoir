@@ -1,27 +1,11 @@
 <div align="center">
 
-<img src="./assets/name-header.svg" alt="Sanjai Ratnarajah" width="100%" />
-
-### Full-Stack Development · Software Engineering · AI
-
-**Building reliable software beyond the prototype stage.**
+<img src="./assets/starry-hero.svg" alt="Sanjai Ratnarajah starry night developer profile hero" width="100%" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jainoir-181717?style=flat-square&logo=github)](https://github.com/Jainoir)
 [![Uncomplex](https://img.shields.io/badge/Live-Uncomplex-b91c1c?style=flat-square&logo=vercel&logoColor=white)](https://uncomplex.vercel.app)
 [![Rallo](https://img.shields.io/badge/Live-Rallo-b91c1c?style=flat-square&logo=render&logoColor=white)](https://rallo-jainoir-web.onrender.com)
 
-</div>
-
----
-
-## About
-
-Full-stack developer focused on **backend architecture, distributed systems, AI integration, and production-style engineering**.
-
-I like taking ideas past the demo stage: authentication, databases, caching, messaging, testing, CI/CD, deployment, reliability, and the design decisions that make software hold up outside a happy-path prototype.
-
-<div align="center">
-  <img src="./assets/maple-party.svg" alt="MapleStory-inspired pixel adventurers" width="88%" />
 </div>
 
 ---
