@@ -115,10 +115,6 @@ ResNet-18 feature extraction · PCA · model experiments · confusion-matrix eva
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jainoir&show_icons=true&hide_border=true&bg_color=00000000&title_color=b91c1c&icon_color=b91c1c&text_color=8b949e&rank_icon=github" alt="Jainoir GitHub stats" />
-
-<br />
-
 <sub>Build things. Understand why they work.</sub>
 
 </div>
