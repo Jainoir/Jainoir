@@ -97,18 +97,11 @@ ResNet-18 feature extraction · PCA · model experiments · confusion-matrix eva
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-111111?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,react,angular,postgres,redis,rabbitmq,docker,githubactions&perline=6" alt="Java, Spring Boot, Python, FastAPI, TypeScript, React, Angular, PostgreSQL, Redis, RabbitMQ, Docker, and GitHub Actions" />
+
+<br><br>
+
+`Java` · `Spring Boot` · `Python` · `FastAPI` · `TypeScript` · `React` · `Angular` · `PostgreSQL` · `Redis` · `RabbitMQ` · `Docker` · `GitHub Actions`
 
 </div>
 
