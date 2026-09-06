@@ -20,6 +20,10 @@ Full-stack developer focused on **backend architecture, distributed systems, AI 
 
 I like taking ideas past the demo stage: authentication, databases, caching, messaging, testing, CI/CD, deployment, reliability, and the design decisions that make software hold up outside a happy-path prototype.
 
+<div align="center">
+  <img src="./assets/maple-party.svg" alt="MapleStory-inspired pixel adventurers" width="88%" />
+</div>
+
 ---
 
 ## Featured Projects
