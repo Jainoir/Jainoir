@@ -1,6 +1,6 @@
 <div align="center">
 
-# SANJAI RATNARAJAH
+<img src="./assets/name-header.svg" alt="Sanjai Ratnarajah" width="100%" />
 
 ### Full-Stack Development · Software Engineering · AI
 
