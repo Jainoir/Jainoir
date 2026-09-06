@@ -1,21 +1,24 @@
 <svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="nameGradient" x1="210" y1="75" x2="990" y2="75" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#7F1D1D"/>
+      <stop offset="0" stop-color="#991B1B"/>
       <stop offset="0.28" stop-color="#DC2626"/>
-      <stop offset="0.52" stop-color="#FF4D4D"/>
+      <stop offset="0.52" stop-color="#FF5A5A"/>
       <stop offset="0.72" stop-color="#DC2626"/>
-      <stop offset="1" stop-color="#7F1D1D"/>
+      <stop offset="1" stop-color="#991B1B"/>
     </linearGradient>
-    <filter id="glow" x="-20%" y="-80%" width="140%" height="260%">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0.55  0 0.18 0 0 0  0 0 0.18 0 0  0 0 0 0.55 0"/>
+    <filter id="softGlow" x="-20%" y="-80%" width="140%" height="260%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0.65  0 0.12 0 0 0  0 0 0.12 0 0  0 0 0 0.45 0"/>
       <feMerge>
         <feMergeNode/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
-  <text x="600" y="100" text-anchor="middle" fill="url(#nameGradient)" filter="url(#glow)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="7">SANJAI RATNARAJAH</text>
-  <rect x="385" y="124" width="430" height="2" rx="1" fill="url(#nameGradient)" opacity="0.75"/>
+
+  <text x="600" y="100" text-anchor="middle" fill="none" stroke="#F0F6FC" stroke-opacity="0.88" stroke-width="4.5" stroke-linejoin="round" paint-order="stroke" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="7">SANJAI RATNARAJAH</text>
+  <text x="600" y="100" text-anchor="middle" fill="url(#nameGradient)" stroke="#2B0A0A" stroke-width="1.4" stroke-linejoin="round" paint-order="stroke fill" filter="url(#softGlow)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="7">SANJAI RATNARAJAH</text>
+
+  <rect x="385" y="124" width="430" height="2.5" rx="1.25" fill="url(#nameGradient)" opacity="0.9"/>
 </svg>
